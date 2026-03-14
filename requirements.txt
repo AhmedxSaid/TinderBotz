@@ -5,3 +5,4 @@ Pillow==10.3.0
 deepface
 opencv-python
 numpy
+pyautogui

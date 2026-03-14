@@ -1,0 +1,27 @@
+13:28:33 [INFO ] ====== WebDriver manager ======
+13:28:34 [INFO ] Get LATEST chromedriver version for google-chrome
+13:28:35 [INFO ] About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+13:28:35 [INFO ] Driver downloading response is 200
+13:28:36 [INFO ] Get LATEST chromedriver version for google-chrome
+13:28:37 [INFO ] Get LATEST chromedriver version for google-chrome
+13:28:37 [INFO ] Driver has been saved in cache [C:\Users\ahmed\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+14:05:59 [INFO ] Driver ready - Microsoft Edge at C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe, viewport 1536x864, UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap...
+14:05:59 [INFO ] Logging in via Facebook…
+14:06:25 [ERROR] Facebook login button not found.
+14:06:25 [ERROR] Login failed – exiting.
+14:10:15 [INFO ] Driver ready - Microsoft Edge at C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe, viewport 1366x768, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+14:10:15 [INFO ] Logging in via phone number…
+14:10:51 [ERROR] Phone login button not found.
+14:10:51 [ERROR] Login failed – exiting.
+14:14:42 [INFO ] Loading Chrome profile from: C:\Users\ahmed\AppData\Local\Google\Chrome\User Data / Default
+14:14:42 [INFO ] ====== WebDriver manager ======
+14:14:42 [INFO ] Get LATEST chromedriver version for google-chrome
+14:14:43 [INFO ] About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+14:14:43 [INFO ] Driver downloading response is 200
+14:14:45 [INFO ] Get LATEST chromedriver version for google-chrome
+14:14:47 [INFO ] Get LATEST chromedriver version for google-chrome
+14:14:48 [INFO ] Driver has been saved in cache [C:\Users\ahmed\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+14:21:31 [INFO ] Using browser: EDGE at C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+14:21:31 [INFO ] Loading profile from: C:\Users\ahmed\AppData\Local\Microsoft\Edge\User Data / Default
+14:21:31 [INFO ] ====== WebDriver manager ======
+14:21:32 [INFO ] Get LATEST edgedriver version for Edge 145.0.3800
